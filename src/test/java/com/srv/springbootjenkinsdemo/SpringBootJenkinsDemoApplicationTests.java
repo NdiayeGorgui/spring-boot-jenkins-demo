@@ -1,3 +1,5 @@
+package com.srv.springbootjenkinsdemo;
+
 
 
 import org.junit.jupiter.api.Assertions;
